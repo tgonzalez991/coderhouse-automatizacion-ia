@@ -18,6 +18,9 @@ El sistema contempla procesamiento automático, intervención humana para casos 
 - JSON
 - Human-in-the-loop
 
+## Video Demo
+https://drive.google.com/file/d/18zk274H_0EdOnUna0nR0y6t-gQcXDdCd/view?usp=sharing
+
 ## Arquitectura
 
 El sistema está dividido en dos escenarios principales.
